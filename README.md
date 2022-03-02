@@ -1,6 +1,6 @@
 # Welcome to SDV
 
-## Welcometo SDV
+## Welcome to SDV
 
 ### Weclome to SDV
 
