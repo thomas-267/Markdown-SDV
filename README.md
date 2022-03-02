@@ -17,3 +17,6 @@
 
 `console.Log("Hello World!")`
 
+-[X] Wrote Read me repo
+-[] Update repository
+-[] Fix bug 
